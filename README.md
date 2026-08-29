@@ -9,3 +9,9 @@ python greet.py
 ```
 
 Prints a greeting to the console.
+
+## Tests
+
+```bash
+pytest
+```
